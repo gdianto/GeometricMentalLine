@@ -1,4 +1,4 @@
-# Geometric Mental Line
+# The Geometric Mental Line
 This is the code for the results and figures in our paper "Ranking and serial thinking: A geometric solution".
 All the codes are written in Matlab.
 
