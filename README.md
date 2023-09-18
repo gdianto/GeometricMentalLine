@@ -1,6 +1,5 @@
 # The Geometric Mental Line
-This is the code for the results and figures in our paper "Ranking and serial thinking: A geometric solution".
-All the codes are written in Matlab.
+Matlab scripts used for "Ranking and serial thinking: A geometric solution", Di Antonio et al., bioRxiv 2023.
 
 ## Guide to reproducing the results
 The following codes are used to reproduce the results in Figure 5-6-7.
