@@ -1,0 +1,10 @@
+nInp 7
+g 0.05
+rGGin 5
+rGinGb 999
+Delay 0.01
+N_AL 4 8 12 16 20
+DNI 0.2
+SNI 0.4
+TH 0.5
+N 100
