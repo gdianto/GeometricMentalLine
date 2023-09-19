@@ -1,6 +1,9 @@
 # The Geometric Mental Line
 Matlab and Mathematica scripts used to perform the simulations and the analyses show in 
-"Ranking and serial thinking: A geometric solution", Di Antonio et al., bioRxiv 2023.
+
+Di Antonio G, Raglio S and Mattia M. 2023.
+_Ranking and serial thinking: A geometric solution_
+**bioRxiv** 2023.08.03.551859: 1-21. doi:[10.1101/2023.08.03.551859v1](https://www.biorxiv.org/content/10.1101/2023.08.03.551859v1)
 
 ## Guide to reproducing the results
 The following codes are used to reproduce the results in Figure 5-6-7.
