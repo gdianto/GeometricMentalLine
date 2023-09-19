@@ -16,8 +16,8 @@ The "Multiple_Runs" folder contains codes related to results averaged over multi
 
 For Figure 3 and 4 the code used to produce the presented results in the following folders:
 
-"Fig3_GMLlearning", simulations of the Perceptron-like shallow networks learning via classical conditioning (pseudo-inverse approach equivalent to _delta rule_ learning) a transitive inference task and related plots (saved as PDF documents).
+"Fig3_GMLlearning", simulations and related plots (PDF files) of the Perceptron-like shallow networks learning via classical conditioning (pseudo-inverse approach equivalent to _delta rule_ learning) a transitive inference task.
 Each subfolder is associated to a different sensory noise.
-The scripts to run are "computeAndTestGMLOnAverage.m".
+The scripts to run are **computeAndTestGMLOnAverage.m**.
 
 
