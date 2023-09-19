@@ -5,7 +5,7 @@ Di Antonio G, Raglio S and Mattia M. 2023.
 _Ranking and serial thinking: A geometric solution_.
 **bioRxiv**, 2023.08.03.551859: 1-21. doi:[10.1101/2023.08.03.551859v1](https://www.biorxiv.org/content/10.1101/2023.08.03.551859v1)
 
-## Guide to reproducing the results
+## Guide to reproduce the results
 The following codes are used to reproduce the results in Figure 5-6-7.
 
 The "MatlabLibrary" folder must be added to the path in order to run all other scripts. It contains codes related to network settings and dynamics.
@@ -20,4 +20,6 @@ For Figure 3 and 4 the code used to produce the presented results in the followi
 Each subfolder is associated to a different sensory noise.
 The scripts to run are **computeAndTestGMLOnAverage.m**.
 
-
+"Fig4_IntegratorOnGML", simulations and related plots (PDF files) of the stochastic dynamics associated to the projection on the geometric mental line of the neural state of the network receiving as input the symbolic distance of the presented pairs of items.
+The script to run is **plotIntegratorOnGML.m**.
+In the subfolder "Mathematica" can be found the script **FPTofWienerProcWithTwoAbsorbBarr.nb** used to computed and plot the theoretical derivations related to the average reaction times and accuracy.
