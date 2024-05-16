@@ -1032,7 +1032,7 @@ if PlotFigures
 
 end
 %%
-RM = round(numel(event{1}.Out)/2.2);
+RM = round(0.5*(numel(event{1}.Out) - round(0.1*numel(event{1}.Out)))); %select the central 10% of the event
 distrImgContinous = nan(n_inputs, numel(event)*numel(event{1}.Out));
 for k=1:numel(event)
     centralSignal = event{k}.Out(RM:end-RM);
