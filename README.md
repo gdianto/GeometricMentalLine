@@ -19,7 +19,8 @@ For Figure 3-4-5 the code used to produce the presented results in the following
 Each subfolder is associated to a different sensory noise.
 The Matlab scripts to run are **computeAndTestGMLOnAverage.m**.
 
-"Fig4_NonLinear", simulations of GML learned on Immediate serial-recall and Biased transitive inference.
+"Fig4_NonLinear", simulations of GML learned on Immediate serial-recall and Biased transitive inference. The script to run are respectivly **Perceptron_SerialRecall.m** and **Perceptron_BiasedTI.m**. 
+Additionally, **Perceptron_DiffTrials.m** can be used to reproduce Supplementary Figure 1.
 
 "Fig5_IntegratorOnGML", simulations and related plots (PDF files) of the stochastic dynamics associated to the projection on the geometric mental line of the neural state of the network receiving as input the symbolic distance of the presented pairs of items.
 The Matlab script to run is **plotIntegratorOnGML.m**.
