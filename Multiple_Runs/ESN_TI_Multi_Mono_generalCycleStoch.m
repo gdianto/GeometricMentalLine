@@ -1,5 +1,3 @@
-%--Scritto tutto molto male per sbrigarmi
-
 clear all
 close all
 %%
