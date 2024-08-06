@@ -1,5 +1,5 @@
 # The Geometric Mental Line
-Matlab and Mathematica scripts used to perform the simulations and the analyses show in 
+Matlab and Mathematica scripts used to perform the simulations and analyses shown in 
 
 Di Antonio G, Raglio S and Mattia M. 2023.
 _Ranking and serial thinking: A geometric solution_.
