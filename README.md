@@ -1,8 +1,8 @@
 # The Geometric Mental Line
 Matlab and Mathematica scripts used to perform the simulations and analyses shown in 
 
-Di Antonio G, Raglio S and Mattia M. 2023.
-_Ranking and serial thinking: A geometric solution_.
+Di Antonio, G., Raglio, S., & Mattia, M. (2024). A geometrical solution underlies general neural principle for serial ordering. Nature Communications.
+
 
 ## Guide to reproduce the results
 The following codes are used to reproduce the results in Figure 6-7-8.
